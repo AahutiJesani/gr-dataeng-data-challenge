@@ -5,26 +5,19 @@
 Visualisation is an important part of what we do at G-Research. In this exercise we'll build a useful visualisation tool known as Bollinger band plot.
 
     Q1. Plot the daily closing price of Bitcoin and Ethereum together on to the same graph?
-      a) What does this tell you? 
-      Ethereum is alot lower and more constant whereas bitcoin is higher and has more fluctuations
-      
+      a) What does this tell you?
       b) Can you find another crypto-currency that behaves in the same way?
-      All of them at the end behave similar for example= Binance Coin, Cardano , Dogecoin, Ethereum, Ethereum Classic, litcoin
-      
       c) Can you find a crypto-currency that does not follow this pattern?
-       bitcoin cash,EOS.IO, IOTA  , Litecoin, Maker, monero, stellar, tronstarts of higher when the rest usually start of lower
-       
+
     Q2. The simple moving average is a technical indicator that investors and traders use to determine the trend of a crypto-currency e.g. whether it is going up in price, or going down. The simple moving average of a series can be calculated by adding up all of the values during a specific period and dividing them by the length of the period. For example, the three day simple moving average of the series [1, 2, 3, 4, 5] is [(1 + 2 + 3) / 3, (2 + 3 + 4) / 3, (3 + 4 + 5) / 3] = [2, 3, 4] which indicates that this series has a positive trend.
       a) Plot the simple moving average of the daily closing price of Bitcoin for each day
         i) Using the previous three day period
         ii) Using the previous seven day period
         iii) Using the previous fourteen day period
       b) Plot a simple moving average on the same graph as the daily closing price of Bitcoin. Choose the one you think is the most informative.
-      even though close provides you with more accurate results, the moving average gives you a more smoother curve as it is an average of it. this means its eaiser to see trends and find patterns
     
     Q3. Crypto-currency is a famously *volatile* asset. This means that the price of a crypto-currency can change by a large amount in a small amount of time. One way of measuring the volatility of a crypto-currency is by looking at the standard-deviation in the closing price over a period of time. The standard deviation reflects the average amount of stock price has differed from the mean over a period of time. It is calculated by determining the mean price for a period of time (the sum of the values in a period of time, divided by the number of values) and then subtracting this figure from each price point. The differences are then squared, summer and averaged to produce the variance. The standard deviation is the square root of the variance.
         a) Plot a bar chart showing the volatility of several crypto-currencies over all of time in the dataset, as measured by the standard deviation. Which crypto-currency is most volatile?
-        bitcoin is most volatile
 
         Like the simple moving average, the standard deviation can also be used as an indicator for how volatility is changing over time.
         b) Plot the standard deviation of the daily closing price of Ethereum starting for each day
@@ -42,14 +35,12 @@ Visualisation is an important part of what we do at G-Research. In this exercise
 In this exercise, we'll consider a set of questions based around buying and selling a single crypto-currency coin. We'll work our way up to a former interview question used at GR.
 
     Q1. If you bought a single Bitcoin on the 4th January 2018, how many days after would your investment:
-      a) Been worth more than you paid for? 7 days
-      b) Been worth less than you paid for? 1 days
+      a) Been worth more than you paid for?
+      b) Been worth less than you paid for?
 
     Q2. Whats the most money you could have made in one day on a single Monero coin?
       a) In absolute terms (e.g. you bought for £3000 one day and sold for £3300 the next day for £300 profit)
-      81.36
       b) In percentage terms (e.g. you bought for £3000 one day and sold for £3300 the next day for a 10% profit)
-      
 
     Q3. If you bought a single Monero coin on the 15th May 2018 date, what is
       a) The greatest percentage profit you could have made by selling it later? What day would this have been?
