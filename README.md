@@ -57,9 +57,12 @@ In this exercise, we'll consider a set of questions based around buying and sell
 
     [Hard - *A version of this was actually one of my interview questions here* ~ Joe]
     Q4. If you could have bought one Litecoin coin on any date, and sold on any later date
-      a) What is the most money you could have made? What days would you choose?
+      a) What is the most money you could have made? What days would you choose? 
+      389.755-23.05=366.705
       b) What is the most money you could lose? What days would you choose?
+      
       c) Can you solve this problem using just one for loop?
+      
       d) If you had to buy and sell one of EVERY coin on the same date, which days would you chose?
 
 ## Time-travel in the market
